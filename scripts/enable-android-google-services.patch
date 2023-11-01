@@ -127,7 +127,7 @@ index cd79b0ab..c2db0f1e 100644
 --- a/lib/utils/background_push.dart
 +++ b/lib/utils/background_push.dart
 @@ -39,7 +39,7 @@ import '../config/setting_keys.dart';
- import 'famedlysdk_store.dart';
+ 
  import 'platform_infos.dart';
  
 -//import 'package:fcm_shared_isolate/fcm_shared_isolate.dart';
